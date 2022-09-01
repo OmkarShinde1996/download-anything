@@ -1,5 +1,4 @@
 # Anything Downloader
----
 Anything download is an app developed in Javascript, HTM and CSS to download anything on the internet using it's url.
 
 ### Steps to ue the app
